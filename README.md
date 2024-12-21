@@ -32,8 +32,8 @@
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 23520761      | Bùi Nhật Anh Khôi      | https://github.com/KhoiBui16                         |23520761@gm.uit.edu.vn   |
 | 2      | 23520662      | Nguyễn Khang Hy        | https://github.com/HyIsNoob	                         |23520662@gm.uit.edu.vn   |
-| 3      | 23520548      | Vũ Việt Hoàng          |https://github.com/ |23520548@gm.uit.edu.vn   |
-| 4      | 23521281      | Hoàng Bá Minh Quang    |https://github.com/ |23521281@gm.uit.edu.vn   |
+| 3      | 23520548      | Vũ Việt Hoàng          |https://github.com/ItzMeHuangg                        |23520548@gm.uit.edu.vn   |
+| 4      | 23521281      | Hoàng Bá Minh Quang    |https://github.com/minquan-alt                        |23521281@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
